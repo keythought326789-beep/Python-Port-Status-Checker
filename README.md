@@ -25,7 +25,7 @@ Python-Port-Status-Checker/
 │
 ├── port_status_checker.py
 ├── README.md
-└── screenshots/
+
 ```
 
 ## ▶️ How to Run
